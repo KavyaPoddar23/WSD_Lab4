@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="travel.xsl"?>
+<!DOCTYPE travelPackages>
+<travelPackages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi="travel.xsd">
+    <package>
+        <id>1</id>
+        <name>Caribbean Cruise</name>
+        <description>Relax on a luxurious cruise through the Caribbean islands.</description>
+        <price>2999.00</price>
+        <availability>Sold Out</availability>
+        <duration>7 days</duration>
+        <departureDate>2024-12-01</departureDate>
+        <destination>Caribbean</destination>
+    </package>
+    <package>
+        <id>2</id>
+        <name>European Adventure</name>
+        <description>Explore historic cities and scenic landscapes across Europe.</description>
+        <price>3499.00</price>
+        <availability>Available</availability>
+        <duration>10 days</duration>
+        <departureDate>2024-06-15</departureDate>
+        <destination>Europe</destination>
+    </package>
+    <packages>
+        <package>
+            <id>3</id>
+            <name>Asian Wonders</name>
+            <description>Experience the vibrant cultures and stunning sights of Asia.</description>
+            <price>2599.00</price>
+            <availability>Available</availability>
+            <duration>12 days</duration>
+            <departureDate>2024-07-20</departureDate>
+            <destination>Asia</destination>
+        </package>
+        <package>
+            <id>4</id>
+            <name>Australian Outback</name>
+            <description>Discover the unique wildlife and rugged landscapes of Australia.</description>
+            <price>3199.00</price>
+            <availability>Limited Availability</availability>
+            <duration>8 days</duration>
+            <departureDate>2024-08-05</departureDate>
+            <destination>Australia</destination>
+        </package>
+        <package>
+            <id>5</id>
+            <name>South American Explorer</name>
+            <description>Explore the diverse cultures and natural wonders of South America.</description>
+            <price>2899.00</price>
+            <availability>Available</availability>
+            <duration>14 days</duration>
+            <departureDate>2024-09-10</departureDate>
+            <destination>South America</destination>
+        </package>
+        <package>
+            <id>6</id>
+            <name>African Safari</name>
+            <description>Embark on a thrilling safari adventure across the African savannah.</description>
+            <price>3599.00</price>
+            <availability>Sold Out</availability>
+            <duration>9 days</duration>
+            <departureDate>2024-10-12</departureDate>
+            <destination>Africa</destination>
+        </package>
+        <package>
+            <id>7</id>
+            <name>Middle Eastern Mysteries</name>
+            <description>Uncover the rich history and vibrant culture of the Middle East.</description>
+            <price>2999.00</price>
+            <availability>Available</availability>
+            <duration>11 days</duration>
+            <departureDate>2024-11-08</departureDate>
+            <destination>Middle East</destination>
+        </package>
+        <package>
+            <id>8</id>
+            <name>Scenic Scandinavia</name>
+            <description>Experience the natural beauty and charming cities of Scandinavia.</description>
+            <price>3299.00</price>
+            <availability>Available</availability>
+            <duration>10 days</duration>
+            <departureDate>2024-12-01</departureDate>
+            <destination>Scandinavia</destination>
+        </package>
+    </packages>
+    
+</travelPackages>
